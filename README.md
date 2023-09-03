@@ -1,5 +1,5 @@
 # Image Classification Using CNN
-mplemented a CNN model in Python using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
+Implemented a CNN model in Python using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
 Achieved an accuracy of 85% through hyperparameter tuning and data augmentation techniques.
 Final view of the project looks like this ->
 ![image](https://github.com/Severus25/Image-Classification-Using-CNN/assets/77570887/1710270e-0999-4b6d-a41d-f2108f7df6ea)
